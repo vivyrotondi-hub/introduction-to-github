@@ -50,3 +50,5 @@ Prima modifica di prova su GitHub
 Modifica fatta nel branch prova-modifica
 Ora modifico il file per la Modfica3.
 Test per il COMPARE.
+
+Test per Revert
