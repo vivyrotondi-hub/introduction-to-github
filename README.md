@@ -46,9 +46,10 @@ If the exercise isn't ready in 20 seconds, please check the [Actions](../../acti
 
 &copy; 2026 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-Prima modifica di prova su GitHub
-Modifica fatta nel branch prova-modifica
-Ora modifico il file per la Modfica3.
-Test per il COMPARE.
+Prima <modifica> di prova su GitHub
+Modifica fatta in <branch = prova-modifica>
+Ora modifico il file per la <Modfica3>.
+Test per il <'COMPARE'>.
 
-Ora lavoriamo sul DRAFT PR
+Ora lavoriamo sul DRAFT PR. 
+Test 1 <status = 'failed'>
